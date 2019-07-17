@@ -41,7 +41,7 @@ http.createServer(function (request, response) {
 	var ckDate;
 	
 //	console.log("Cookies=" + request.headers['cookie']);
-//	console.log(request.headers);
+//	console.log( request.headers);
 	console.log("URL= " + request.url);
 	
 
